@@ -1,0 +1,25 @@
+Seed:
+34278489
+
+Randomize keys:
+False
+
+Randomize Estus flask:
+False
+
+Allow more difficult Estus location:
+False
+
+Randomize Dull ember:
+False
+
+Allow more difficult Ember location:
+False
+
+Randomize White Sign Soapstone:
+False
+
+Cross-randomize enemy drops and world locations:
+True
+lets add a line here for git
+this line is to test reset --soft  HEAD^
